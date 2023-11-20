@@ -1,6 +1,6 @@
 ---
 title: "Parcours scolaire"
-order: 4
+order: 3
 in_menu: true
 ---
 #### Cursus ingénieur Agronome (Spécialisation Productions animales)

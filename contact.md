@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 4
 in_menu: true
 ---
 Si vous souhaitez m'écrire, c'est par ici !

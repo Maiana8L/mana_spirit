@@ -1,6 +1,6 @@
 ---
 title: "Bonjour !"
-order: 0
+order: 1
 in_menu: true
 ---
 ## Bienvenue sur mon petit site,
