@@ -14,5 +14,3 @@ Travaux de groupes, études bibliographiques, entretiens semi-directifs,
 
 #### Bac Scientifique (Option Mathématiques)
 **2014 - Lycée M. Genevoix _ Marignane (13)** 
-
-![](/images/Charge mentale écologique.jpg) 
