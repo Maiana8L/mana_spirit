@@ -5,7 +5,7 @@ De là où j'écris, c'est à dire en 2023 en France, les notions d'éco-anxiét
 D'une part, la **charge mentale** est le fait de devoir penser à tout, tout le temps : logement, travail, entourage, soi-même ?, etc. C'est un concept qui provoque beaucoup de fatigue et [qui touche principalement les femmes](https://lejournal.cnrs.fr/nos-blogs/dialogues-economiques/la-charge-mentale-une-double-peine-pour-les-femmes) (patriarcat, tout ça tout ça, c'est pas le sujet principal de l'article donc je passe, pour l'instant).  
 D'autre part, l'**éco-anxiété** est relative aux émotions d'angoisse, de peur, de colère, de tristesse, etc liées au dérèglement climatique et à la dégradation de l'état de la planète. C'est un sentiment [qui touche particulièrement les jeunes](https://www.france24.com/fr/plan%C3%A8te/20220729-%C3%A9co-anxi%C3%A9t%C3%A9-une-jeunesse-face-aux-angoisses-%C3%A9cologiques).  
 Vous l'aurez compris, à l'intersection des deux, il y a donc la charge mentale écologique, c'est-à-dire le fait de se soucier des problématiques environnementales, vouloir mettre en place des éco-gestes dans son quotidien, éduquer ses proches, en subir l'impact social, etc. C'est donc un joli jackpot pour les "jeunes femmes" !  
-![](/images/Charge mentale écologique 1.jpg)
+![](/images/Charge mentale écologique.jpg)
 
 ## Les différentes phases de la charge mentale écologique
 Sans avoir fait une étude scientifique sur le sujet, je peux dire que dans mon entourage, et pour moi même d'ailleurs, la prise de conscience écologique, et la charge mentale associée, suivent souvent plusieurs étapes au cours de la vie :
