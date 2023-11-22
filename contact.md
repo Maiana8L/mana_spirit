@@ -40,6 +40,6 @@ Ici je propose de mettre des ressources chouettes :
 - Corps, Amour, Sexualité : les 120 questions que vos enfants vont vous poser _de Charline Vermont_
 - Le prix des tours Eiffel _de Wendy Lonis_
 - L'empire des femmes (2 tomes : Sapientia et Teneros) _de Cassandre Lambert_
-
-
+  
+  
 **A bientôt !** 
