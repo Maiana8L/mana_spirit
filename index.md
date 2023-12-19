@@ -26,5 +26,5 @@ Enfin, mes yeux s'illuminent quand on me propose un **jeu de société** ou de f
 Et pour finir cette page d'accueil, une petite citation, un peu ... mélancolique ?  
 > **_Le problème, c’est que les humains ont un don pour désirer ce qui leur fait le plus de mal._**  
     _Harry Potter à l’école des sorciers, Dumbledore._
-
+ 
 Mais rassurez-vous, je suis de nature plutôt optimiste sinon ! 
