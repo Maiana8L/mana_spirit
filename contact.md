@@ -44,5 +44,4 @@ Ici je propose de mettre des ressources chouettes :
 \
 \
 \
-\
 **A bientôt !** 
