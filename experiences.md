@@ -3,7 +3,7 @@ title: "Expériences"
 order: 2
 in_menu: true
 ---
-[Pour découvrir mon *PORTFOLIO*, c'est par ici !](https://maiana8l.github.io/portfolio/accueil.html)
+[Pour découvrir mon *PORTFOLIO*, c'est par ici !](https://maiana8l.github.io/portfolio/)
 
 ## En informatique
 ### Scribouilli
