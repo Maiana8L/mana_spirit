@@ -29,11 +29,14 @@ Ici je propose de mettre des ressources chouettes :
 - Devs
 - UI-UX Designer
 - Product Owner
+- Vétérinaire faune sauvage
 
 #### Podcasts
-- Le coeur sur la table
+- Le cœur sur la table
 - Un podcast à soi
 - Super Green Me
+- Entre nos lèvres
+- Rends l'argent
 
 #### Livres
 - Corps, Amour, Sexualité : y'a pas d'âge pour se poser de questions ! _de Charline Vermont_
