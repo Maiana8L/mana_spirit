@@ -3,6 +3,8 @@ title: "Expériences"
 order: 2
 in_menu: true
 ---
+[Pour découvrir mon *PORTFOLIO*, c'est par ici !](https://maiana8l.github.io/portfolio/scribouilli.html)
+
 ## En informatique
 ### Scribouilli
 #### 2023 - Montpellier (34) & Pleurtuit (35)
