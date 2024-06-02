@@ -14,7 +14,8 @@ D'ailleurs, ce site est réalisé grâce à Scribouilli !
 - Découverte de Github (fonctionnement, projects, issues, ...)
 - Participation aux tests utilisateurs
 - Priorisation des retours
-- Bricodage en CSS  
+- Bricodage en CSS
+  
 PS : [Visionner la conférence donnée au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
 
 ### Chargée de projet Outil d’aide à la décision
