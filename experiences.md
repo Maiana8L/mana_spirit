@@ -15,7 +15,7 @@ D'ailleurs, ce site est réalisé grâce à Scribouilli !
 - Participation aux tests utilisateurs
 - Priorisation des retours
 - Bricodage en CSS
-PS : ![Visionner la conférence donnée au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
+PS : [Visionner la conférence donnée au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
 
 ### Chargée de projet Outil d’aide à la décision
 #### 2019 à 2022 - Techna France Nutrition _ Couëron (44)
