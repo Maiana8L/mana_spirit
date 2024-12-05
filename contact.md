@@ -19,7 +19,7 @@ Sinon voici quelques liens de mes réseaux :
 
 Ici je propose de mettre des ressources chouettes :
 
-#### Personnes géniales que je connais
+#### Activités proposées par des personnes géniales que je connais, n'hésitez pas à me demander les contacts !
 - Forgeron
 - Illustratrice
 - Coach - Accompagnateur émotionnel / Médiateur
@@ -31,6 +31,8 @@ Ici je propose de mettre des ressources chouettes :
 - UI-UX Designer
 - Product Owner
 - Vétérinaire faune sauvage
+- Cours particuliers
+- Photographes
 
 #### Podcasts
 - Le cœur sur la table
@@ -40,6 +42,7 @@ Ici je propose de mettre des ressources chouettes :
 - Rends l'argent
 
 #### Livres
+- Sois jeune et tais-toi _ de Salomé Saqué_
 - Corps, Amour, Sexualité : y'a pas d'âge pour se poser de questions ! _de Charline Vermont_
 - Corps, Amour, Sexualité : les 120 questions que vos enfants vont vous poser _de Charline Vermont_
 - Le prix des tours Eiffel _de Wendy Lonis_
