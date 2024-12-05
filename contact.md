@@ -48,6 +48,12 @@ Ici je propose de mettre des ressources chouettes :
 - Le prix des tours Eiffel _de Wendy Lonis_
 - L'empire des femmes (2 tomes : Sapientia et Teneros) _de Cassandre Lambert_
 
+#### Séries
+- Heartstopper
+
+#### Films
+- Je verrai toujours vos visages (2023)
+
 \
 \
 \
