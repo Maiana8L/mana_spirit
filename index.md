@@ -12,6 +12,8 @@ Je vis dans une **maison roulante** qui change de direction au gré de mes envie
 
 **Toujours motivée à découvrir de nouveaux domaines et à faire de chouettes rencontres**, je cherche à mettre à profit mes compétences organisationnelles et relationnelles pour des projets concrets, sans jamais m’ennuyer ! J’aime travailler de manière conviviale et m’investir dans **des sujets qui font sens pour moi, et pour la planète**.
 
+Je suis aussi une très heureuse membre de l'association l'[Échappée Belle](https://lechappeebelle.team/) au sein de laquelle j'apprends beaucoup de choses, grâce à chacun-ne de ces supers membres 🌻
+
 
 #### Mes centres d'intérêts
 Je mets de plus en plus d'énergie dans l'**écologie**, le **féminisme**, l'**inclusion** (enfin, tout ça est très lié bien sûr).
