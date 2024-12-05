@@ -6,6 +6,12 @@ in_menu: true
 [Pour découvrir mon *PORTFOLIO*, c'est par ici !](https://maiana8l.github.io/portfolio/)
 
 ## En numérique
+### Recommandations Collaboratives
+#### 2024 - Betagouv - Freelance Full-distanciel
+Investigation visant à comprendre comment les collectivités territoriales abordent le sujet des eaux pluviales et quelles difficultés elles rencontrent pour voir si un outil numérique permettrait de les accompagner sur leurs projets d'aménagement.
+- Recherche interlocuteurs pertinents, entretiens semi-directif¤
+- Etat des lieux, compréhension du besoin et synthèse
+
 ### Scribouilli
 #### 2023 - Montpellier (34) & Pleurtuit (35)
 Réalisation d'un outil pour aider les personnes qui veulent “juste créer un petit site” pour leur association, leur activité professionnelle ou ce qu’iels veulent.  
@@ -15,6 +21,7 @@ D'ailleurs, ce site est réalisé grâce à Scribouilli !
 - Participation aux tests utilisateurs
 - Priorisation des retours
 - Bricodage en CSS
+- Présentation au Capitole du Libre
   
 PS : [Visionner la conférence donnée au Capitole du Libre](https://www.youtube.com/watch?v=krRPLxzkZTw)
 
