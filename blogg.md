@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Blogg"
 order: 6
-in_menu: false
+in_menu: true
 ---
 <h1>
   Articles
