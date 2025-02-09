@@ -11,7 +11,7 @@ Sinon voici quelques liens de mes réseaux :
 [LinkedIn](https://www.linkedin.com/in/maiana-lenoir-08a72012a/) (où je vais moins)  
 [Mastodon](https://ludosphere.fr/@maiana8l) (où je débute)  
 [GitHub](https://github.com/Maiana8L) (oui il n'y a pas encore grand chose !)  
-[Instagram](https://www.instagram.com/mana_spirit/) de Harry, le camion-maison🚚 
+[Instagram](https://www.instagram.com/mana_spirit/) de Harry, le camion-maison🚚   
 [Polarstep](https://www.polarsteps.com/ManaSpirit) pour suivre notre trajet !
 
 
