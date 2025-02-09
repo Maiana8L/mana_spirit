@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Articles
-permalink: /articles/
+title: "Blog"
+order: 1
+in_menu: true
 ---
 <h1>
   Articles
@@ -20,4 +20,4 @@ permalink: /articles/
   <a href="{{post.url | relative_url}}"> Lire l'article ➞ </a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
