@@ -1,5 +1,5 @@
 ---
-title: "Blogg"
+title: "Blog"
 order: 6
 in_menu: true
 ---
